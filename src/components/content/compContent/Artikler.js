@@ -13,7 +13,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Møllerup Hamp</p>
                 <p className="lille-artikel-tekst">På Møllerup dyrker vi industri-hamp til fødevarer, isolering og hudpleje.</p>
-                <Link to="#">Køb produktet her</Link>
+                <Link to="#" className="buy">Køb produktet her</Link>
             </div>
 
             <div className="artikler">
@@ -22,7 +22,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Møder & events</p>
                 <p className="lille-artikel-tekst">Hold møde eller firmaevent i smukke, autentiske rammer med plads til kreativitet.</p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
 
             <div className="artikler">
@@ -31,7 +31,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Fest på kroen</p>
                 <p className="lille-artikel-tekst">Lej Hubertus Kroen og hold fest for op til 80 pers. i romantiske og historiske rammer.</p>
-                <Link to="#">Læs mere</Link>
+                <Link to="#" className="buy">>Læs mere</Link>
             </div>
 
             <div className="artikler">
@@ -40,7 +40,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Rundvisninger</p>
                 <p className="lille-artikel-tekst">Bestil en rundvisning på Møllerup, lær noget om historien, jagten, og livet på Møllerup. </p>
-                <Link to="#">Læs mere</Link>
+                <Link to="#" className="buy">>Læs mere</Link>
             </div>
 
             <div className="artikler">
@@ -49,7 +49,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Prøv Møllerups nye hudplejeserie baseret på de næringsrige olie fra hampens frø.</p>
                 <p className="lille-artikel-tekst"></p>
-                <Link to="#">Læs mere</Link>
+                <Link to="#" className="buy">>Læs mere</Link>
             </div>
 
             <div className="artikler">
@@ -58,7 +58,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Hamp fødevarer</p>
                 <p className="lille-artikel-tekst">Prøv fødevarer udviklet på baggrund af frøene fra den sunde hamp fra Møllerup.</p>
-                <Link to="#">Læs mere</Link>
+                <Link to="#" className="buy">>Læs mere</Link>
             </div>
 
             <div className="artikler">
@@ -67,7 +67,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Møllerup bogen</p>
                 <p className="lille-artikel-tekst">Der er kød og blod på historien,  Læs mere om Marsk Stig & livet på Møllerup.</p>
-                <Link to="#">Køb bogen her</Link>
+                <Link to="#" className="buy">>Køb bogen her</Link>
             </div>
 
             <div className="artikler">
@@ -76,7 +76,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Møllerup jagt</p>
                 <p className="lille-artikel-tekst">Professionel jagt i kuperet og varieret landskab med mange fasaner og råvildt.</p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
 
             <div className="artikler">
@@ -85,7 +85,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Ferie for 40</p>
                 <p className="lille-artikel-tekst">Nyd en ferie eller weekend på Hubertus Kroen. Op til 40 personer inkl pool</p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
 
             <div className="artikler">
@@ -94,7 +94,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Bolig på landet</p>
                 <p className="lille-artikel-tekst">Mærk roen og nyd det smukke landskab i et omsorgsfuldt lokalsamfund.</p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
 
             <div className="artikler">
@@ -103,7 +103,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Hestepension</p>
                 <p className="lille-artikel-tekst">Giv din hest et sundt ophold, god plads ude og inde i den gamle herskabsstald.</p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
 
             <div className="artikler">
@@ -112,7 +112,7 @@ function Artikler() {
                 </div>
                 <p className="artikel-tekst">Verdensballetten</p>
                 <p className="lille-artikel-tekst">Verdensballet - charmerende udendørsforestilling, 13. juli 2018 på Møllerup. </p>
-                <Link to="#">Læs mere her</Link>
+                <Link to="#" className="buy">>Læs mere her</Link>
             </div>
         </section>
     )
